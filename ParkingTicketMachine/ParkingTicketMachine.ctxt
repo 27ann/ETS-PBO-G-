@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParkingTicketMachine
+comment1.params=ticketPrice
+comment1.target=ParkingTicketMachine(int)
+comment2.params=amount
+comment2.target=void\ insertMoney(int)
+comment3.params=
+comment3.target=void\ issueTicket()
+comment4.params=
+comment4.target=int\ getTimePurchased()
+comment5.params=
+comment5.target=int\ getBalance()
+comment6.params=
+comment6.target=void\ printMachineStatus()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
